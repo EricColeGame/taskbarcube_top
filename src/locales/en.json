@@ -12,8 +12,8 @@
   },
   "home": {
     "meta": {
-      "title": "My Seafood Stand Wiki — Codes, Recipes, Upgrades & Guides",
-      "description": "Complete My Seafood Stand guide on Roblox with active working codes, all fish & recipes, best upgrades tier list, and fast cash tips."
+      "title": "Task Bar Cube Wiki - Beginner Guide, Gear, Heroes & Progression",
+      "description": "Task Bar Cube guides for idle combat, five hero classes, gear upgrades, pets, village resources, ACT League bosses, Steam chests, and Prestige."
     },
     "hero": {
       "eyebrow": "Fan-Made Community Wiki",
@@ -37,27 +37,27 @@
     },
     "start": {
       "eyebrow": "Start Here",
-      "title": "Your My Seafood Stand Journey",
+      "title": "Your Task Bar Cube Journey",
       "cards": [
         {
           "number": "1",
           "title": "Beginner Guide",
-          "description": "Master the Spirit World from day one with our comprehensive beginner guide covering controls, combat, and early progression."
+          "description": "Learn the taskbar and fullscreen basics, automatic hero combat, early gear, and the resource loop that keeps your team moving."
         },
         {
           "number": "2",
           "title": "Fastest Leveling",
-          "description": "Dominate early game and max your progression with the most efficient leveling routes and strategies."
+          "description": "Use endless levels, hero skills, talents, and Cube upgrades to keep your team progressing while Task Bar Cube runs in the background."
         },
         {
           "number": "3",
-          "title": "Best Farming Spots",
-          "description": "Maximize your Soul Essence and EXP gains with optimal farming locations for every stage."
+          "title": "Gear Upgrades",
+          "description": "Explore seven rarities, seven tiers, fusion, gem socketing, and rarity or tier upgrades for stronger equipment."
         },
         {
           "number": "4",
-          "title": "How to Extract",
-          "description": "Learn the best methods and locations for extracting resources in My Seafood Stand."
+          "title": "Heroes & Pets",
+          "description": "Compare five hero classes, shape builds with skills and talents, and develop pets through village facilities that boost your team."
         }
       ]
     },
@@ -65,265 +65,349 @@
       "eyebrow": "Popular Pages",
       "title": "Trending Now",
       "quickLinks": [
-        "Hollow Progression",
-        "Fastest Leveling",
-        "Spirit Charms",
-        "All Boss Guides"
+        "Beginner Guide",
+        "Gear Upgrades",
+        "Heroes & Pets",
+        "Prestige"
       ],
       "cards": [
         {
           "badge": "Beginner",
           "title": "Beginner Guide",
-          "description": "Everything you need from your first login to mastering the basics of combat and progression.",
-          "href": "/beginner-guide"
+          "description": "Start with taskbar play, idle combat, early gear, resources, heroes, and village progression.",
+          "href": "/guide/task-bar-cube-beginner-guide"
         },
         {
-          "badge": "Updated",
-          "title": "Active Codes",
-          "description": "All working codes with rewards redeem before they expire.",
-          "href": "/codes"
+          "badge": "Gear",
+          "title": "Gear Upgrades",
+          "description": "Review seven rarities, seven tiers, fusion, gem socketing, and equipment upgrades.",
+          "href": "/items/task-bar-cube-gear-upgrades"
         },
         {
-          "badge": "Updated",
-          "title": "Equipment Database",
-          "description": "94 items across 5 slots complete gear database with stats, rarity, and sources.",
-          "href": "/equipment"
+          "badge": "Team",
+          "title": "Heroes & Pets",
+          "description": "Understand five hero classes, combat skills, talent trees, pets, and village boosts.",
+          "href": "/characters/task-bar-cube-heroes-and-pets"
         },
         {
-          "badge": "Popular",
-          "title": "Which Race Should You Pick?",
-          "description": "Shinigami, Quincy, or Hollow compare all three and find your perfect playstyle.",
-          "href": "/races/best-race"
+          "badge": "Progression",
+          "title": "Prestige & Leveling",
+          "description": "Follow endless levels, Cube upgrades, ACT League bonuses, and Prestige progression.",
+          "href": "/progression/task-bar-cube-prestige-and-leveling"
         },
         {
-          "badge": "New",
-          "title": "Enemies & Monsters",
-          "description": "23 enemy types across 5 regions drops, locations, and farming tips.",
-          "href": "/enemies"
+          "badge": "Village",
+          "title": "Village Resources",
+          "description": "Map hunting, farming, mining, merchant trades, the Library, and the Animal Shelter.",
+          "href": "/mechanics/task-bar-cube-village-resources-and-facilities"
         },
         {
-          "badge": "Popular",
-          "title": "Boss Locations & Drops",
-          "description": "Every boss location, drop table, and respawn timer in one reference.",
-          "href": "/boss-locations-drops-respawn-times"
-        },
-        {
-          "badge": "Popular",
-          "title": "Best Builds",
-          "description": "Optimal stat allocation, skill tree picks, and Charm combos for every playstyle.",
-          "href": "/builds/best-builds"
-        },
-        {
-          "badge": "New",
-          "title": "Shikai Tier List",
-          "description": "All 6 Shinigami Shikai types ranked by PvP and PvE performance.",
-          "href": "/tier-list/shikai"
-        },
-        {
-          "badge": "New",
-          "title": "World Events Guide",
-          "description": "Supply Caches, Raids, and endgame world events with rare rewards.",
-          "href": "/world-events"
+          "badge": "Steam",
+          "title": "Steam Chest Drops",
+          "description": "Check the five-minute chest cycle and the listed drop rates for Levels 1 through 5.",
+          "href": "/items/task-bar-cube-steam-chest-drops"
         }
       ]
     },
     "aboutGame": {
-      "title": "What is My Seafood Stand?",
+      "title": "What is Task Bar Cube?",
       "paragraphs": [
-        "My Seafood Stand is a stylized fighting RPG on Roblox inspired by the Bleach anime universe. Choose from three playable races Shinigami, Quincy, or Hollow each with unique progression systems, unlockable abilities, and evolution paths. Master over 130 skills as you fight your way to the level 100 cap.",
-        "Whether you're unlocking your first Shikai, evolving from a base Hollow into an Arrancar, or grinding Quincy Lieutenant missions, our wiki covers every system with detailed guides, data tables, and step-by-step walkthroughs."
+        "Task Bar Cube is a desktop idle RPG from DarkRook Interactive. It runs in a compact taskbar window or in fullscreen on Windows, letting your heroes fight automatically while you work or focus on other tasks.",
+        "Build a team from five hero classes, collect gear across seven rarities and seven tiers, socket gems, fuse equipment, and develop pets and village facilities. Cube upgrades, endless levels, ACT League boss bonuses, and Prestige carry the long-term progression."
       ],
       "stats": [
         {
           "label": "Developer",
-          "value": "Midnight Continent"
+          "value": "DarkRook Interactive"
         },
         {
           "label": "Platform",
-          "value": "Roblox"
+          "value": "Windows"
+        },
+        {
+          "label": "Release",
+          "value": "Oct 25, 2026"
         },
         {
           "label": "Genre",
-          "value": "Fighting RPG"
+          "value": "Desktop Idle RPG"
         },
         {
-          "label": "Visits",
-          "value": "12.6M+"
-        },
-        {
-          "label": "Favorites",
-          "value": "243K+"
-        },
-        {
-          "label": "Total Skills",
-          "value": "130+"
+          "label": "Hero Classes",
+          "value": "5"
         },
         {
           "label": "Level Cap",
-          "value": "100"
+          "value": "Endless"
         }
       ],
-      "cta": "Explore All Guides"
+      "cta": "Start with the Beginner Guide"
     },
     "explore": {
-      "title": "Explore My Seafood Stand Wiki",
-      "description": "Master your seafood restaurant on Roblox with essential progression guides, active codes, complete fish & recipe catalogs, and optimal upgrade strategies.",
+      "title": "Explore Task Bar Cube",
+      "description": "Eight focused guides cover the core Task Bar Cube systems, from your first idle battle to gear, pets, village resources, ACT League bosses, and Steam chest drops.",
       "modules": [
         {
           "order": 1,
-          "name": "My Seafood Stand Working Codes",
-          "description": "Redeem the latest working codes to claim free coins, gems, exclusive cosmetics, and boost items before they expire.",
-          "href": "/codes/my-seafood-stand-codes",
-          "displayType": "code-box",
+          "name": "Task Bar Cube Beginner Guide",
+          "description": "Introduce the core gameplay loop, taskbar and fullscreen modes, automatic combat, and the first steps toward gear, resources, heroes, and village upgrades.",
+          "href": "/guide/task-bar-cube-beginner-guide",
+          "displayType": "step-by-step",
           "highlights": [
             {
-              "label": "Code",
-              "detail": "FULLRELEASE — Free Cash & Rewards"
+              "label": "1",
+              "detail": "Open Task Bar Cube in its compact taskbar window or switch to fullscreen for a focused session."
             },
             {
-              "label": "Code",
-              "detail": "75KLIKES — Exclusive Ability Reroll"
+              "label": "2",
+              "detail": "Let your heroes fight automatically while the idle RPG runs alongside your work."
             },
             {
-              "label": "Tip",
-              "detail": "Codes are case-sensitive; enter them in the Settings menu"
+              "label": "3",
+              "detail": "Review new equipment and compare its rarity, tier, and stats with what each hero uses."
+            },
+            {
+              "label": "4",
+              "detail": "Improve gear with fusion, gem socketing, rarity upgrades, and tier upgrades."
+            },
+            {
+              "label": "5",
+              "detail": "Gather resources through hunting, farming, and mining, then check the merchant for ore trades."
+            },
+            {
+              "label": "6",
+              "detail": "Develop heroes, pets, village facilities, Cube upgrades, and ACT League bonuses as they unlock."
             }
           ]
         },
         {
           "order": 2,
-          "name": "Beginner Guide: How to Start & Serve Customers",
-          "description": "Step-by-step beginner guide covering customer ordering, food prep, station management, and cashier checkout mechanics.",
-          "href": "/guide/my-seafood-stand-beginner-guide",
-          "displayType": "feature-cards",
+          "name": "Task Bar Cube Gear Guide",
+          "description": "Break down equipment rarities, seven tiers, fusion, gem socketing, and the upgrade paths that improve the gear your heroes carry.",
+          "href": "/items/task-bar-cube-gear-upgrades",
+          "displayType": "tier-grid",
           "highlights": [
             {
-              "label": "Step 1",
-              "detail": "Take customer order at the stall front"
+              "label": "S",
+              "detail": "Divine is the highest named rarity in Task Bar Cube's seven-rarity range from Common to Divine."
             },
             {
-              "label": "Step 2",
-              "detail": "Cook seafood on the grill or boil station"
+              "label": "A",
+              "detail": "Rarity upgrades improve an existing item and can extend the value of gear already in use."
             },
             {
-              "label": "Step 3",
-              "detail": "Serve warm food promptly for maximum customer tips"
+              "label": "B",
+              "detail": "Fusion combines items to produce new gear, opening another route through the equipment system."
+            },
+            {
+              "label": "C",
+              "detail": "Common is the starting named rarity; each item can advance through seven gear tiers."
             }
           ]
         },
         {
           "order": 3,
-          "name": "Seafood & Fish Tier List",
-          "description": "Complete breakdown of all catchable fish and seafood ranked by market value, customer demand, and profit margins.",
-          "href": "/seafood/my-seafood-stand-tier-list",
-          "displayType": "tier-grid",
+          "name": "Task Bar Cube Heroes and Classes",
+          "description": "Introduce the five hero classes, their combat skills, hero skills, talent trees, and the pets that support team development.",
+          "href": "/characters/task-bar-cube-heroes-and-pets",
+          "displayType": "card-list",
           "highlights": [
             {
-              "label": "S Tier",
-              "detail": "King Crab · Lobster Boil — Highest profit per customer"
+              "label": "Classes",
+              "detail": "Five hero classes each bring a distinct combat skill to the team."
             },
             {
-              "label": "A Tier",
-              "detail": "Salmon · Jumbo Shrimp · Tuna Steak — Reliable fast earners"
+              "label": "Skills",
+              "detail": "Hero skills and talent trees shape how each character develops."
             },
             {
-              "label": "B Tier",
-              "detail": "Clams · Oysters · Squid — Great mid-game margin"
+              "label": "Gear",
+              "detail": "Seven rarities and seven tiers give every hero another path to stronger equipment."
             },
             {
-              "label": "C Tier",
-              "detail": "Common Sardines · Small Crab — Starter seafood"
+              "label": "Pets",
+              "detail": "Pets join team building and gain support from the Library and Animal Shelter."
             }
           ]
         },
         {
           "order": 4,
-          "name": "Best Upgrades Progression",
-          "description": "Optimal order to spend your cash: expand kitchen stations, hire waitstaff, speed up grills, and upgrade seating.",
-          "href": "/upgrades/my-seafood-stand-best-upgrades",
-          "displayType": "feature-cards",
+          "name": "Task Bar Cube Upgrade Guide",
+          "description": "Follow Cube upgrades, endless leveling, ACT League boss bonuses, and Prestige as the long-term progression path.",
+          "href": "/progression/task-bar-cube-prestige-and-leveling",
+          "displayType": "step-by-step",
           "highlights": [
             {
-              "label": "Priority 1",
-              "detail": "Cooking Speed & Extra Burners — Clears customer backlog"
+              "label": "1",
+              "detail": "Keep heroes battling to advance Task Bar Cube's endless level track."
             },
             {
-              "label": "Priority 2",
-              "detail": "Customer Seating Capacity — Increases simultaneous diners"
+              "label": "2",
+              "detail": "Review hero skills and talent choices as your team takes shape."
             },
             {
-              "label": "Priority 3",
-              "detail": "Auto-Chef / Waiter Staff — Passive hands-free revenue"
+              "label": "3",
+              "detail": "Open Cube upgrades and compare the hundreds of available improvements."
+            },
+            {
+              "label": "4",
+              "detail": "Defeat ACT League rivals to earn bonuses that remain after Prestige."
+            },
+            {
+              "label": "5",
+              "detail": "Read the in-game Prestige confirmation before committing to a reset."
+            },
+            {
+              "label": "6",
+              "detail": "Return to leveling and Cube upgrades with the bonuses your team has earned."
             }
           ]
         },
         {
           "order": 5,
-          "name": "How to Get Cash Fast",
-          "description": "Top money-making strategies, VIP evaluation, tip maximization, and high-efficiency serving tips.",
-          "href": "/guide/my-seafood-stand-how-to-get-cash-fast",
-          "displayType": "feature-cards",
+          "name": "Task Bar Cube Farming Guide",
+          "description": "Organize hunting, farming, and mining resources, merchant ore trades, and the Library and Animal Shelter facilities that support heroes and pets.",
+          "href": "/mechanics/task-bar-cube-village-resources-and-facilities",
+          "displayType": "code-cards",
           "highlights": [
             {
-              "label": "Combo",
-              "detail": "Chain orders quickly to build the Customer Happiness multiplier"
+              "label": "Hunting",
+              "detail": "A village activity that gathers resources for Task Bar Cube progression."
             },
             {
-              "label": "High Margin",
-              "detail": "Focus high-tier seafood boils during peak customer rush hours"
+              "label": "Farming",
+              "detail": "A gathering activity that supplies resources while your heroes continue fighting."
             },
             {
-              "label": "Reinvest",
-              "detail": "Keep 20% cash reserve for fresh ingredient replenishment"
+              "label": "Mining",
+              "detail": "The activity tied to ores, which can be traded with the village merchant."
+            },
+            {
+              "label": "Merchant",
+              "detail": "Exchange ores for rewards; offers and exchange rates are shown in-game."
+            },
+            {
+              "label": "Library",
+              "detail": "A village facility that provides boosts for heroes and pets."
+            },
+            {
+              "label": "Shelter",
+              "detail": "The Animal Shelter supports hero and pet development in Task Bar Cube."
             }
           ]
         },
         {
           "order": 6,
-          "name": "Plot Expansion & Stand Customization",
-          "description": "Unlock bigger land plots, arrange optimal cooking layouts, and add high-value decorative upgrades.",
-          "href": "/upgrades/my-seafood-stand-how-to-upgrade-plot",
-          "displayType": "feature-cards",
+          "name": "Task Bar Cube Pets and Village Upgrades",
+          "description": "Cover pet development, the Library, and the Animal Shelter, with a practical view of the village improvements that support your team.",
+          "href": "/characters/task-bar-cube-heroes-and-pets",
+          "displayType": "card-list",
           "highlights": [
             {
-              "label": "Plot 1",
-              "detail": "Starter Beach Stand (3 Tables, 1 Grill)"
+              "label": "Pets",
+              "detail": "Pets are part of team building and develop alongside your heroes."
             },
             {
-              "label": "Plot 2",
-              "detail": "Boardwalk Restaurant (6 Tables, 2 Grills, Boil Station)"
+              "label": "Library",
+              "detail": "A village facility that boosts heroes and pets."
             },
             {
-              "label": "Plot 3",
-              "detail": "Luxury Pier Seafood Pavilion (Full Automation & VIP Seating)"
+              "label": "Shelter",
+              "detail": "The Animal Shelter supports hero and pet development."
+            },
+            {
+              "label": "Village",
+              "detail": "Hunting, farming, mining, and facilities expand your team's resource base."
+            }
+          ]
+        },
+        {
+          "order": 7,
+          "name": "Task Bar Cube ACT League and Boss Guide",
+          "description": "Introduce the ACT League, rival boss encounters, and the bonuses that remain after Prestige.",
+          "href": "/progression/task-bar-cube-prestige-and-leveling",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "League",
+              "detail": "A boss-focused progression track within Task Bar Cube."
+            },
+            {
+              "label": "Rivals",
+              "detail": "ACT League boss battles test your team against rival opponents."
+            },
+            {
+              "label": "Bonuses",
+              "detail": "Wins earn ACT League bonuses that remain after Prestige."
+            },
+            {
+              "label": "Prestige",
+              "detail": "Use those permanent bonuses when planning Task Bar Cube resets."
+            }
+          ]
+        },
+        {
+          "order": 8,
+          "name": "Task Bar Cube Steam Items and Chest Drops",
+          "description": "Explain the five-minute Steam chest cycle, published chest-level drop rates, and marketable items from Task Bar Cube.",
+          "href": "/items/task-bar-cube-steam-chest-drops",
+          "displayType": "code-cards",
+          "highlights": [
+            {
+              "label": "5 min",
+              "detail": "Playing Task Bar Cube for five minutes awards one Steam chest."
+            },
+            {
+              "label": "Lv. 1",
+              "detail": "85% listed drop rate for a Level 1 Steam chest."
+            },
+            {
+              "label": "Lv. 2",
+              "detail": "10% listed drop rate for a Level 2 Steam chest."
+            },
+            {
+              "label": "Lv. 3",
+              "detail": "3% listed drop rate for a Level 3 Steam chest."
+            },
+            {
+              "label": "Lv. 4",
+              "detail": "1.5% listed drop rate for a Level 4 Steam chest."
+            },
+            {
+              "label": "Lv. 5",
+              "detail": "0.5% listed drop rate for a Level 5 Steam chest."
             }
           ]
         }
       ]
     },
     "faq": {
-      "title": "Frequently Asked Questions",
-      "description": "Quick answers to the most common questions about My Seafood Stand.",
+      "title": "Task Bar Cube FAQ",
+      "description": "Quick answers about Task Bar Cube, from idle combat and gear to Steam chests, ACT League bonuses, and Prestige.",
       "items": [
         {
-          "question": "What is My Seafood Stand?",
-          "answer": "My Seafood Stand is a free-to-play fighting RPG on Roblox based on the Bleach anime. You choose one of game mechanics Shinigami (Soul Reaper), Quincy, or Hollow each with unique progression, combat abilities, and evolution systems. The game features 130+ skills, a level 100 cap, boss fights, and deep build customization."
+          "question": "What is Task Bar Cube?",
+          "answer": "Task Bar Cube is a desktop idle RPG from DarkRook Interactive for Windows. It runs from your taskbar or in fullscreen while heroes fight automatically and progress through gear, pets, village facilities, and Cube upgrades."
         },
         {
-          "question": "Which race should beginners pick?",
-          "answer": "Shinigami is the most straightforward starter race, while Hollow and Quincy offer more specialized progression routes. Compare their abilities before committing."
+          "question": "How do heroes and pets work in Task Bar Cube?",
+          "answer": "Task Bar Cube has five hero classes, each with its own combat skill. Hero skills and talent trees shape development, while pets join team building and receive support from the Library and Animal Shelter."
         },
         {
-          "question": "What is the current level cap?",
-          "answer": "The current level cap is 100, with more than 130 skills available across trees and race progression systems."
+          "question": "How do gear upgrades work in Task Bar Cube?",
+          "answer": "Task Bar Cube gear spans seven rarities from Common to Divine and seven tiers per item. Fusion, gem socketing, rarity upgrades, and tier upgrades all improve equipment."
         },
         {
-          "question": "Where do I find active codes?",
-          "answer": "Use the Codes page for working codes, rewards, expiration notes, and redeem instructions."
+          "question": "How often do Steam chests drop in Task Bar Cube?",
+          "answer": "Task Bar Cube awards one Steam chest for every five minutes of play. The listed chest-level rates are 85% for Level 1, 10% for Level 2, 3% for Level 3, 1.5% for Level 4, and 0.5% for Level 5."
         },
         {
-          "question": "Are boss guides updated?",
-          "answer": "Boss pages are organized with spawn notes, attack patterns, strategies, drop tables, and related next steps for progression."
+          "question": "What survives Prestige in Task Bar Cube?",
+          "answer": "ACT League bonuses remain after Prestige in Task Bar Cube. They are earned by defeating rival bosses and stay with your team through the reset."
+        },
+        {
+          "question": "Is there a level cap in Task Bar Cube?",
+          "answer": "No level cap is stated for Task Bar Cube. The game describes endless levels alongside hundreds of Cube upgrades."
         }
       ]
     },
