@@ -34,6 +34,6 @@ export const siteConfig: SiteConfig = {
     youtube: "https://www.youtube.com/@DarkRookInteractive",
     steam: "https://steamcommunity.com/app/5084200/",
   },
-  locales: ["en", "es", "pt", "de", "fr"],
+  locales: ["en", "de", "fr", "es"],
   defaultLocale: "en",
 };

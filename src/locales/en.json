@@ -8,7 +8,12 @@
   },
   "nav": {
     "menu": "Menu",
-    "toggleTheme": "Toggle theme"
+    "toggleTheme": "Toggle theme",
+    "guide": "Guide",
+    "items": "Items",
+    "characters": "Characters",
+    "progression": "Progression",
+    "mechanics": "Mechanics"
   },
   "home": {
     "meta": {
@@ -418,13 +423,29 @@
       "secondary": "Play on Steam"
     }
   },
-  "bosses": {},
+  "guide": {
+    "overviewTitle": "Task Bar Cube Beginner Guides",
+    "overviewDescription": "Start Task Bar Cube with verified guidance on taskbar play, automatic hero combat, early gear, resource gathering, and the village loop."
+  },
+  "items": {
+    "overviewTitle": "Task Bar Cube Items & Gear Guides",
+    "overviewDescription": "Understand Task Bar Cube equipment rarities, tiers, fusion, gem socketing, upgrades, and Steam chest drops."
+  },
+  "characters": {
+    "overviewTitle": "Task Bar Cube Heroes & Pets Guides",
+    "overviewDescription": "Explore Task Bar Cube hero classes, combat skills, talent trees, team building, pets, and village boosts."
+  },
+  "progression": {
+    "overviewTitle": "Task Bar Cube Progression Guides",
+    "overviewDescription": "Track Task Bar Cube endless levels, Cube upgrades, ACT League bonuses, boss progression, and Prestige."
+  },
+  "mechanics": {
+    "overviewTitle": "Task Bar Cube Mechanics Guides",
+    "overviewDescription": "Learn how Task Bar Cube village activities, resource gathering, the merchant, Library, and Animal Shelter work."
+  },
   "shared": {
     "wikiNavigation": "Wiki Navigation",
-    "activeCodes": "Active Codes",
     "updated": "Updated",
-    "viewAllCodes": "View all codes",
-    "playOnRoblox": "Play on Roblox",
     "inThisSection": "In this section",
     "tableOfContents": "Table of Contents",
     "nextSteps": "Next Steps",
@@ -448,7 +469,7 @@
     "officialDiscord": "Official Discord",
     "officialYoutube": "Official YouTube",
     "vvBuilder": "Steam Community Hub",
-    "beginnerGuide": "Beginner Guides",
+    "beginnerGuide": "Beginner Guide",
     "raceGuides": "Hero Classes",
     "bossGuides": "Equipment & Gear",
     "buildGuide": "Progression Guides",
