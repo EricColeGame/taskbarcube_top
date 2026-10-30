@@ -1,1 +1,479 @@
-{}
+{
+  "site": {
+    "name": "Wiki de Task Bar Cube",
+    "shortName": "Task Bar Cube",
+    "tagline": "Guías de builds, equipo, mascotas y progresión",
+    "description": "Guías de Task Bar Cube que cubren héroes, mascotas, equipamiento, fusión de equipo, engaste de gemas, farmeo, prestigio y progresión de RPG idle de escritorio.",
+    "legalNotice": "Wiki de fans no oficial. Task Bar Cube y los recursos relacionados pertenecen a DarkRook Interactive."
+  },
+  "nav": {
+    "menu": "Menú",
+    "toggleTheme": "Cambiar tema",
+    "guide": "Guía",
+    "items": "Objetos",
+    "characters": "Personajes",
+    "progression": "Progresión",
+    "mechanics": "Mecánicas"
+  },
+  "home": {
+    "meta": {
+      "title": "Wiki de Task Bar Cube - Guía para principiantes, equipo, héroes y progresión",
+      "description": "Guías de Task Bar Cube para combate idle, cinco clases de héroe, mejoras de equipo, mascotas, recursos de la aldea, jefes de ACT League, cofres de Steam y Prestigio."
+    },
+    "hero": {
+      "eyebrow": "Wiki comunitaria hecha por fans",
+      "title": "Wiki de Task Bar Cube",
+      "description": "Domina Task Bar Cube con guías para principiantes, progresión de héroes y mascotas, rarezas de equipamiento, fusión de equipo, engaste de gemas, estrategias de farmeo y consejos de prestigio para este RPG idle de escritorio.",
+      "stats": [
+        "Lanzamiento: 25 de octubre de 2026",
+        "5 clases de héroe",
+        "4,970 CCU máximos",
+        "188 reseñas de Steam"
+      ],
+      "primaryCta": "Guía para principiantes",
+      "secondaryCta": "Equipo y progresión",
+      "tertiaryCta": "Jugar en Steam",
+      "videoLabel": "Vista previa de gameplay"
+    },
+    "updates": {
+      "title": "Últimas actualizaciones",
+      "browse": "Explorar todas las guías",
+      "viewAll": "Ver todo"
+    },
+    "start": {
+      "eyebrow": "Empieza aquí",
+      "title": "Tu viaje en Task Bar Cube",
+      "cards": [
+        {
+          "number": "1",
+          "title": "Guía para principiantes",
+          "description": "Aprende lo básico de la barra de tareas y la pantalla completa, el combate automático de héroes, el equipo inicial y el ciclo de recursos que mantiene a tu equipo avanzando."
+        },
+        {
+          "number": "2",
+          "title": "Nivelación más rápida",
+          "description": "Usa niveles infinitos, habilidades de héroe, talentos y mejoras de Cube para mantener a tu equipo progresando mientras Task Bar Cube se ejecuta en segundo plano."
+        },
+        {
+          "number": "3",
+          "title": "Mejoras de equipo",
+          "description": "Explora siete rarezas, siete rangos, fusión, engaste de gemas y mejoras de rareza o rango para obtener equipamiento más fuerte."
+        },
+        {
+          "number": "4",
+          "title": "Héroes y mascotas",
+          "description": "Compara cinco clases de héroe, define builds con habilidades y talentos, y desarrolla mascotas mediante instalaciones de la aldea que mejoran a tu equipo."
+        }
+      ]
+    },
+    "popular": {
+      "eyebrow": "Páginas populares",
+      "title": "Tendencias ahora",
+      "quickLinks": [
+        "Guía para principiantes",
+        "Mejoras de equipo",
+        "Héroes y mascotas",
+        "Prestigio"
+      ],
+      "cards": [
+        {
+          "badge": "Principiante",
+          "title": "Guía para principiantes",
+          "description": "Empieza con el juego en la barra de tareas, combate idle, equipo inicial, recursos, héroes y progresión de la aldea.",
+          "href": "/guide/task-bar-cube-beginner-guide"
+        },
+        {
+          "badge": "Equipo",
+          "title": "Mejoras de equipo",
+          "description": "Revisa siete rarezas, siete rangos, fusión, engaste de gemas y mejoras de equipamiento.",
+          "href": "/items/task-bar-cube-gear-upgrades"
+        },
+        {
+          "badge": "Equipo",
+          "title": "Héroes y mascotas",
+          "description": "Comprende las cinco clases de héroe, habilidades de combate, árboles de talentos, mascotas y mejoras de la aldea.",
+          "href": "/characters/task-bar-cube-heroes-and-pets"
+        },
+        {
+          "badge": "Progresión",
+          "title": "Prestigio y nivelación",
+          "description": "Sigue los niveles infinitos, las mejoras de Cube, los bonos de ACT League y la progresión de Prestigio.",
+          "href": "/progression/task-bar-cube-prestige-and-leveling"
+        },
+        {
+          "badge": "Aldea",
+          "title": "Recursos de la aldea",
+          "description": "Caza en el mapa, farmeo, minería, comercio con el mercader, la Biblioteca y el Refugio de Animales.",
+          "href": "/mechanics/task-bar-cube-village-resources-and-facilities"
+        },
+        {
+          "badge": "Steam",
+          "title": "Drops de cofres de Steam",
+          "description": "Consulta el ciclo de cofres de cinco minutos y las tasas de drop indicadas para los niveles 1 a 5.",
+          "href": "/items/task-bar-cube-steam-chest-drops"
+        }
+      ]
+    },
+    "aboutGame": {
+      "title": "¿Qué es Task Bar Cube?",
+      "paragraphs": [
+        "Task Bar Cube es un RPG idle de escritorio de DarkRook Interactive. Se ejecuta en una ventana compacta de la barra de tareas o en pantalla completa en Windows, lo que permite que tus héroes luchen automáticamente mientras trabajas o te concentras en otras tareas.",
+        "Forma un equipo con cinco clases de héroe, colecciona equipo de siete rarezas y siete rangos, engasta gemas, fusiona equipamiento y desarrolla mascotas e instalaciones de la aldea. Las mejoras de Cube, los niveles infinitos, los bonos de jefes de ACT League y el Prestigio sostienen la progresión a largo plazo."
+      ],
+      "stats": [
+        {
+          "label": "Desarrollador",
+          "value": "DarkRook Interactive"
+        },
+        {
+          "label": "Plataforma",
+          "value": "Windows"
+        },
+        {
+          "label": "Lanzamiento",
+          "value": "25 de octubre de 2026"
+        },
+        {
+          "label": "Género",
+          "value": "RPG idle de escritorio"
+        },
+        {
+          "label": "Clases de héroe",
+          "value": "5"
+        },
+        {
+          "label": "Límite de nivel",
+          "value": "Infinito"
+        }
+      ],
+      "cta": "Empieza con la guía para principiantes"
+    },
+    "explore": {
+      "title": "Explora Task Bar Cube",
+      "description": "Ocho guías enfocadas cubren los sistemas principales de Task Bar Cube, desde tu primera batalla idle hasta equipo, mascotas, recursos de la aldea, jefes de ACT League y drops de cofres de Steam.",
+      "modules": [
+        {
+          "order": 1,
+          "name": "Guía para principiantes de Task Bar Cube",
+          "description": "Presenta el ciclo de juego principal, los modos de barra de tareas y pantalla completa, el combate automático y los primeros pasos hacia equipo, recursos, héroes y mejoras de la aldea.",
+          "href": "/guide/task-bar-cube-beginner-guide",
+          "displayType": "step-by-step",
+          "highlights": [
+            {
+              "label": "1",
+              "detail": "Abre Task Bar Cube en su ventana compacta de la barra de tareas o cambia a pantalla completa para una sesión concentrada."
+            },
+            {
+              "label": "2",
+              "detail": "Deja que tus héroes luchen automáticamente mientras el RPG idle se ejecuta junto a tu trabajo."
+            },
+            {
+              "label": "3",
+              "detail": "Revisa el equipamiento nuevo y compara su rareza, rango y estadísticas con lo que usa cada héroe."
+            },
+            {
+              "label": "4",
+              "detail": "Mejora el equipo con fusión, engaste de gemas, mejoras de rareza y mejoras de rango."
+            },
+            {
+              "label": "5",
+              "detail": "Reúne recursos mediante caza, farmeo y minería, y luego consulta al mercader para intercambios de mineral."
+            },
+            {
+              "label": "6",
+              "detail": "Desarrolla héroes, mascotas, instalaciones de la aldea, mejoras de Cube y bonos de ACT League a medida que se desbloquean."
+            }
+          ]
+        },
+        {
+          "order": 2,
+          "name": "Guía de equipo de Task Bar Cube",
+          "description": "Desglosa las rarezas de equipamiento, los siete rangos, la fusión, el engaste de gemas y las rutas de mejora que fortalecen el equipo que llevan tus héroes.",
+          "href": "/items/task-bar-cube-gear-upgrades",
+          "displayType": "tier-grid",
+          "highlights": [
+            {
+              "label": "S",
+              "detail": "Divino es la rareza con nombre más alta en el rango de siete rarezas de Task Bar Cube, de Común a Divino."
+            },
+            {
+              "label": "A",
+              "detail": "Las mejoras de rareza mejoran un objeto existente y pueden extender el valor del equipo que ya está en uso."
+            },
+            {
+              "label": "B",
+              "detail": "La fusión combina objetos para producir equipo nuevo, abriendo otra ruta a través del sistema de equipamiento."
+            },
+            {
+              "label": "C",
+              "detail": "Común es la rareza con nombre inicial; cada objeto puede avanzar por siete rangos de equipo."
+            }
+          ]
+        },
+        {
+          "order": 3,
+          "name": "Héroes y clases de Task Bar Cube",
+          "description": "Presenta las cinco clases de héroe, sus habilidades de combate, habilidades de héroe, árboles de talentos y las mascotas que apoyan el desarrollo del equipo.",
+          "href": "/characters/task-bar-cube-heroes-and-pets",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Clases",
+              "detail": "Cada una de las cinco clases de héroe aporta una habilidad de combate distinta al equipo."
+            },
+            {
+              "label": "Habilidades",
+              "detail": "Las habilidades de héroe y los árboles de talentos determinan cómo se desarrolla cada personaje."
+            },
+            {
+              "label": "Equipo",
+              "detail": "Siete rarezas y siete rangos dan a cada héroe otra ruta hacia equipamiento más fuerte."
+            },
+            {
+              "label": "Mascotas",
+              "detail": "Las mascotas se unen a la formación del equipo y reciben apoyo de la Biblioteca y el Refugio de Animales."
+            }
+          ]
+        },
+        {
+          "order": 4,
+          "name": "Guía de mejoras de Task Bar Cube",
+          "description": "Sigue las mejoras de Cube, la nivelación infinita, los bonos de jefes de ACT League y el Prestigio como la ruta de progresión a largo plazo.",
+          "href": "/progression/task-bar-cube-prestige-and-leveling",
+          "displayType": "step-by-step",
+          "highlights": [
+            {
+              "label": "1",
+              "detail": "Mantén a los héroes combatiendo para avanzar en la pista de niveles infinitos de Task Bar Cube."
+            },
+            {
+              "label": "2",
+              "detail": "Revisa las habilidades de héroe y las elecciones de talentos a medida que tu equipo toma forma."
+            },
+            {
+              "label": "3",
+              "detail": "Abre las mejoras de Cube y compara las cientos de mejoras disponibles."
+            },
+            {
+              "label": "4",
+              "detail": "Derrota a los rivales de ACT League para ganar bonos que permanecen después del Prestigio."
+            },
+            {
+              "label": "5",
+              "detail": "Lee la confirmación de Prestigio en el juego antes de comprometerte con un reinicio."
+            },
+            {
+              "label": "6",
+              "detail": "Vuelve a la nivelación y a las mejoras de Cube con los bonos que tu equipo ha ganado."
+            }
+          ]
+        },
+        {
+          "order": 5,
+          "name": "Guía de farmeo de Task Bar Cube",
+          "description": "Organiza la caza, el farmeo y la minería de recursos, los intercambios de mineral con el mercader y las instalaciones de la Biblioteca y el Refugio de Animales que apoyan a héroes y mascotas.",
+          "href": "/mechanics/task-bar-cube-village-resources-and-facilities",
+          "displayType": "code-cards",
+          "highlights": [
+            {
+              "label": "Caza",
+              "detail": "Una actividad de la aldea que reúne recursos para la progresión en Task Bar Cube."
+            },
+            {
+              "label": "Farmeo",
+              "detail": "Una actividad de recolección que suministra recursos mientras tus héroes siguen luchando."
+            },
+            {
+              "label": "Minería",
+              "detail": "La actividad vinculada a los minerales, que se pueden intercambiar con el mercader de la aldea."
+            },
+            {
+              "label": "Mercader",
+              "detail": "Intercambia minerales por recompensas; las ofertas y los tipos de cambio se muestran en el juego."
+            },
+            {
+              "label": "Biblioteca",
+              "detail": "Una instalación de la aldea que proporciona mejoras para héroes y mascotas."
+            },
+            {
+              "label": "Refugio",
+              "detail": "El Refugio de Animales apoya el desarrollo de héroes y mascotas en Task Bar Cube."
+            }
+          ]
+        },
+        {
+          "order": 6,
+          "name": "Mascotas y mejoras de la aldea de Task Bar Cube",
+          "description": "Cubre el desarrollo de mascotas, la Biblioteca y el Refugio de Animales, con una visión práctica de las mejoras de la aldea que apoyan a tu equipo.",
+          "href": "/characters/task-bar-cube-heroes-and-pets",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Mascotas",
+              "detail": "Las mascotas forman parte de la formación del equipo y se desarrollan junto a tus héroes."
+            },
+            {
+              "label": "Biblioteca",
+              "detail": "Una instalación de la aldea que mejora a héroes y mascotas."
+            },
+            {
+              "label": "Refugio",
+              "detail": "El Refugio de Animales apoya el desarrollo de héroes y mascotas."
+            },
+            {
+              "label": "Aldea",
+              "detail": "La caza, el farmeo, la minería y las instalaciones amplían la base de recursos de tu equipo."
+            }
+          ]
+        },
+        {
+          "order": 7,
+          "name": "Guía de ACT League y jefes de Task Bar Cube",
+          "description": "Presenta la ACT League, los encuentros con jefes rivales y los bonos que permanecen después del Prestigio.",
+          "href": "/progression/task-bar-cube-prestige-and-leveling",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Liga",
+              "detail": "Una pista de progresión centrada en jefes dentro de Task Bar Cube."
+            },
+            {
+              "label": "Rivales",
+              "detail": "Las batallas contra jefes de ACT League ponen a prueba a tu equipo contra oponentes rivales."
+            },
+            {
+              "label": "Bonos",
+              "detail": "Las victorias otorgan bonos de ACT League que permanecen después del Prestigio."
+            },
+            {
+              "label": "Prestigio",
+              "detail": "Usa esos bonos permanentes al planificar los reinicios de Task Bar Cube."
+            }
+          ]
+        },
+        {
+          "order": 8,
+          "name": "Objetos de Steam y drops de cofres de Task Bar Cube",
+          "description": "Explica el ciclo de cofres de Steam de cinco minutos, las tasas de drop publicadas por nivel de cofre y los objetos comercializables de Task Bar Cube.",
+          "href": "/items/task-bar-cube-steam-chest-drops",
+          "displayType": "code-cards",
+          "highlights": [
+            {
+              "label": "5 min",
+              "detail": "Jugar Task Bar Cube durante cinco minutos otorga un cofre de Steam."
+            },
+            {
+              "label": "Nv. 1",
+              "detail": "Tasa de drop indicada del 85% para un cofre de Steam de nivel 1."
+            },
+            {
+              "label": "Nv. 2",
+              "detail": "Tasa de drop indicada del 10% para un cofre de Steam de nivel 2."
+            },
+            {
+              "label": "Nv. 3",
+              "detail": "Tasa de drop indicada del 3% para un cofre de Steam de nivel 3."
+            },
+            {
+              "label": "Nv. 4",
+              "detail": "Tasa de drop indicada del 1.5% para un cofre de Steam de nivel 4."
+            },
+            {
+              "label": "Nv. 5",
+              "detail": "Tasa de drop indicada del 0.5% para un cofre de Steam de nivel 5."
+            }
+          ]
+        }
+      ]
+    },
+    "faq": {
+      "title": "Preguntas frecuentes de Task Bar Cube",
+      "description": "Respuestas rápidas sobre Task Bar Cube, desde combate idle y equipo hasta cofres de Steam, bonos de ACT League y Prestigio.",
+      "items": [
+        {
+          "question": "¿Qué es Task Bar Cube?",
+          "answer": "Task Bar Cube es un RPG idle de escritorio de DarkRook Interactive para Windows. Se ejecuta desde tu barra de tareas o en pantalla completa mientras los héroes luchan automáticamente y progresan mediante equipo, mascotas, instalaciones de la aldea y mejoras de Cube."
+        },
+        {
+          "question": "¿Cómo funcionan los héroes y las mascotas en Task Bar Cube?",
+          "answer": "Task Bar Cube tiene cinco clases de héroe, cada una con su propia habilidad de combate. Las habilidades de héroe y los árboles de talentos determinan el desarrollo, mientras que las mascotas se unen a la formación del equipo y reciben apoyo de la Biblioteca y el Refugio de Animales."
+        },
+        {
+          "question": "¿Cómo funcionan las mejoras de equipo en Task Bar Cube?",
+          "answer": "El equipo de Task Bar Cube abarca siete rarezas, de Común a Divino, y siete rangos por objeto. La fusión, el engaste de gemas, las mejoras de rareza y las mejoras de rango perfeccionan el equipamiento."
+        },
+        {
+          "question": "¿Con qué frecuencia caen cofres de Steam en Task Bar Cube?",
+          "answer": "Task Bar Cube otorga un cofre de Steam por cada cinco minutos de juego. Las tasas indicadas por nivel de cofre son 85% para el nivel 1, 10% para el nivel 2, 3% para el nivel 3, 1.5% para el nivel 4 y 0.5% para el nivel 5."
+        },
+        {
+          "question": "¿Qué se conserva tras el Prestigio en Task Bar Cube?",
+          "answer": "Los bonos de ACT League permanecen después del Prestigio en Task Bar Cube. Se ganan al derrotar a jefes rivales y se mantienen con tu equipo durante el reinicio."
+        },
+        {
+          "question": "¿Hay un límite de nivel en Task Bar Cube?",
+          "answer": "No se indica ningún límite de nivel para Task Bar Cube. El juego describe niveles infinitos junto con cientos de mejoras de Cube."
+        }
+      ]
+    },
+    "finalCta": {
+      "title": "¿Listo para dominar Task Bar Cube?",
+      "description": "Explora la progresión de héroes y mascotas, las rarezas de equipamiento, la fusión de equipo, el engaste de gemas y las estrategias de prestigio con nuestras guías gratuitas de RPG idle de escritorio.",
+      "primary": "Lee la guía para principiantes",
+      "secondary": "Jugar en Steam"
+    }
+  },
+  "guide": {
+    "overviewTitle": "Guías para principiantes de Task Bar Cube",
+    "overviewDescription": "Empieza en Task Bar Cube con orientación verificada sobre el juego en la barra de tareas, el combate automático de héroes, el equipo inicial, la recolección de recursos y el ciclo de la aldea."
+  },
+  "items": {
+    "overviewTitle": "Guías de objetos y equipo de Task Bar Cube",
+    "overviewDescription": "Comprende las rarezas de equipamiento de Task Bar Cube, los rangos, la fusión, el engaste de gemas, las mejoras y los drops de cofres de Steam."
+  },
+  "characters": {
+    "overviewTitle": "Guías de héroes y mascotas de Task Bar Cube",
+    "overviewDescription": "Explora las clases de héroe de Task Bar Cube, las habilidades de combate, los árboles de talentos, la formación de equipos, las mascotas y las mejoras de la aldea."
+  },
+  "progression": {
+    "overviewTitle": "Guías de progresión de Task Bar Cube",
+    "overviewDescription": "Sigue los niveles infinitos de Task Bar Cube, las mejoras de Cube, los bonos de ACT League, la progresión de jefes y el Prestigio."
+  },
+  "mechanics": {
+    "overviewTitle": "Guías de mecánicas de Task Bar Cube",
+    "overviewDescription": "Aprende cómo funcionan las actividades de la aldea de Task Bar Cube, la recolección de recursos, el mercader, la Biblioteca y el Refugio de Animales."
+  },
+  "shared": {
+    "wikiNavigation": "Navegación de la wiki",
+    "updated": "Actualizado",
+    "inThisSection": "En esta sección",
+    "tableOfContents": "Tabla de contenido",
+    "nextSteps": "Próximos pasos",
+    "needHelp": "¿Necesitas ayuda?",
+    "relatedReading": "Lectura relacionada",
+    "relatedGuides": "Guías relacionadas",
+    "readMore": "Leer más",
+    "officialMedia": "Medios oficiales",
+    "home": "Inicio",
+    "noGuidesAvailable": "Todavía no hay guías disponibles. ¡Vuelve pronto!"
+  },
+  "footer": {
+    "aboutTitle": "Wiki de Task Bar Cube",
+    "about": "La Wiki de Task Bar Cube es un centro de guías independiente creado por fans que cubre la progresión de héroes y mascotas, las rarezas de equipamiento, la fusión de equipo, el engaste de gemas, el farmeo y los sistemas de prestigio.",
+    "quickLinks": "Enlaces rápidos",
+    "guides": "Guías",
+    "legal": "Legal",
+    "copyright": "2026 Wiki de Task Bar Cube. No está afiliada con DarkRook Interactive ni con Valve.",
+    "description": "RPG idle de escritorio en Windows. Forma héroes y mascotas, colecciona equipo raro, fusiona equipamiento, engasta gemas y realiza prestigios.",
+    "playGame": "Jugar en Steam",
+    "officialDiscord": "Discord oficial",
+    "officialYoutube": "YouTube oficial",
+    "vvBuilder": "Centro de la comunidad de Steam",
+    "beginnerGuide": "Guía para principiantes",
+    "raceGuides": "Clases de héroe",
+    "bossGuides": "Equipamiento y equipo",
+    "buildGuide": "Guías de progresión",
+    "privacyPolicy": "Política de privacidad",
+    "termsOfService": "Términos de servicio"
+  }
+}

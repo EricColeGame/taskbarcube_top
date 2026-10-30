@@ -1,1 +1,479 @@
-{}
+{
+  "site": {
+    "name": "Wiki Task Bar Cube",
+    "shortName": "Task Bar Cube",
+    "tagline": "Guides sur les builds, l’équipement, les familiers et la progression",
+    "description": "Guides Task Bar Cube couvrant les héros, les familiers, l’équipement, la fusion d’équipement, le sertissage de gemmes, le farming, le prestige et la progression du RPG idle de bureau.",
+    "legalNotice": "Wiki de fans non officiel. Task Bar Cube et les éléments associés appartiennent à DarkRook Interactive."
+  },
+  "nav": {
+    "menu": "Menu",
+    "toggleTheme": "Basculer le thème",
+    "guide": "Guide",
+    "items": "Objets",
+    "characters": "Personnages",
+    "progression": "Progression",
+    "mechanics": "Mécaniques"
+  },
+  "home": {
+    "meta": {
+      "title": "Wiki Task Bar Cube - Guide du débutant, équipement, héros et progression",
+      "description": "Guides Task Bar Cube pour le combat idle, cinq classes de héros, améliorations d’équipement, familiers, ressources du village, boss de l’ACT League, coffres Steam et Prestige."
+    },
+    "hero": {
+      "eyebrow": "Wiki communautaire créé par des fans",
+      "title": "Wiki Task Bar Cube",
+      "description": "Maîtrisez Task Bar Cube avec des guides du débutant, la progression des héros et des familiers, les raretés d’équipement, la fusion d’équipement, le sertissage de gemmes, les stratégies de farming et des conseils de prestige pour ce RPG idle de bureau.",
+      "stats": [
+        "Sortie le 25 oct. 2026",
+        "5 classes de héros",
+        "4,970 CCU en pic",
+        "188 avis Steam"
+      ],
+      "primaryCta": "Guide du débutant",
+      "secondaryCta": "Équipement et progression",
+      "tertiaryCta": "Jouer sur Steam",
+      "videoLabel": "Aperçu du gameplay"
+    },
+    "updates": {
+      "title": "Dernières mises à jour",
+      "browse": "Parcourir tous les guides",
+      "viewAll": "Tout voir"
+    },
+    "start": {
+      "eyebrow": "Commencez ici",
+      "title": "Votre aventure Task Bar Cube",
+      "cards": [
+        {
+          "number": "1",
+          "title": "Guide du débutant",
+          "description": "Apprenez les bases de la barre des tâches et du plein écran, le combat automatique des héros, l’équipement de début et la boucle de ressources qui fait avancer votre équipe."
+        },
+        {
+          "number": "2",
+          "title": "Montée de niveau la plus rapide",
+          "description": "Utilisez les niveaux sans fin, les compétences des héros, les talents et les améliorations du Cube pour faire progresser votre équipe pendant que Task Bar Cube tourne en arrière-plan."
+        },
+        {
+          "number": "3",
+          "title": "Améliorations d’équipement",
+          "description": "Explorez sept raretés, sept paliers, la fusion, le sertissage de gemmes et les améliorations de rareté ou de palier pour obtenir un équipement plus puissant."
+        },
+        {
+          "number": "4",
+          "title": "Héros et familiers",
+          "description": "Comparez cinq classes de héros, façonnez les builds avec les compétences et les talents, et développez les familiers grâce aux installations du village qui renforcent votre équipe."
+        }
+      ]
+    },
+    "popular": {
+      "eyebrow": "Pages populaires",
+      "title": "Tendances actuelles",
+      "quickLinks": [
+        "Guide du débutant",
+        "Améliorations d’équipement",
+        "Héros et familiers",
+        "Prestige"
+      ],
+      "cards": [
+        {
+          "badge": "Débutant",
+          "title": "Guide du débutant",
+          "description": "Commencez par le jeu en barre des tâches, le combat idle, l’équipement de début, les ressources, les héros et la progression du village.",
+          "href": "/guide/task-bar-cube-beginner-guide"
+        },
+        {
+          "badge": "Équipement",
+          "title": "Améliorations d’équipement",
+          "description": "Passez en revue sept raretés, sept paliers, la fusion, le sertissage de gemmes et les améliorations d’équipement.",
+          "href": "/items/task-bar-cube-gear-upgrades"
+        },
+        {
+          "badge": "Équipe",
+          "title": "Héros et familiers",
+          "description": "Comprenez cinq classes de héros, les compétences de combat, les arbres de talents, les familiers et les bonus du village.",
+          "href": "/characters/task-bar-cube-heroes-and-pets"
+        },
+        {
+          "badge": "Progression",
+          "title": "Prestige et montée de niveau",
+          "description": "Suivez les niveaux sans fin, les améliorations du Cube, les bonus de l’ACT League et la progression du Prestige.",
+          "href": "/progression/task-bar-cube-prestige-and-leveling"
+        },
+        {
+          "badge": "Village",
+          "title": "Ressources du village",
+          "description": "Cartographiez la chasse, l’agriculture, l’exploitation minière, les échanges avec le marchand, la Bibliothèque et le Refuge pour animaux.",
+          "href": "/mechanics/task-bar-cube-village-resources-and-facilities"
+        },
+        {
+          "badge": "Steam",
+          "title": "Butins de coffres Steam",
+          "description": "Consultez le cycle de coffres de cinq minutes et les taux de butin indiqués pour les niveaux 1 à 5.",
+          "href": "/items/task-bar-cube-steam-chest-drops"
+        }
+      ]
+    },
+    "aboutGame": {
+      "title": "Qu’est-ce que Task Bar Cube ?",
+      "paragraphs": [
+        "Task Bar Cube est un RPG idle de bureau de DarkRook Interactive. Il s’exécute dans une fenêtre compacte de barre des tâches ou en plein écran sous Windows, ce qui permet à vos héros de combattre automatiquement pendant que vous travaillez ou vous concentrez sur d’autres tâches.",
+        "Créez une équipe à partir de cinq classes de héros, collectionnez de l’équipement parmi sept raretés et sept paliers, sertissez des gemmes, fusionnez de l’équipement et développez des familiers et des installations du village. Les améliorations du Cube, les niveaux sans fin, les bonus de boss de l’ACT League et le Prestige portent la progression à long terme."
+      ],
+      "stats": [
+        {
+          "label": "Développeur",
+          "value": "DarkRook Interactive"
+        },
+        {
+          "label": "Plateforme",
+          "value": "Windows"
+        },
+        {
+          "label": "Sortie",
+          "value": "25 oct. 2026"
+        },
+        {
+          "label": "Genre",
+          "value": "RPG idle de bureau"
+        },
+        {
+          "label": "Classes de héros",
+          "value": "5"
+        },
+        {
+          "label": "Niveau maximum",
+          "value": "Sans fin"
+        }
+      ],
+      "cta": "Commencez par le Guide du débutant"
+    },
+    "explore": {
+      "title": "Explorez Task Bar Cube",
+      "description": "Huit guides ciblés couvrent les systèmes principaux de Task Bar Cube, de votre première bataille idle à l’équipement, aux familiers, aux ressources du village, aux boss de l’ACT League et aux butins de coffres Steam.",
+      "modules": [
+        {
+          "order": 1,
+          "name": "Guide du débutant Task Bar Cube",
+          "description": "Présente la boucle de gameplay principale, les modes barre des tâches et plein écran, le combat automatique et les premières étapes vers l’équipement, les ressources, les héros et les améliorations du village.",
+          "href": "/guide/task-bar-cube-beginner-guide",
+          "displayType": "step-by-step",
+          "highlights": [
+            {
+              "label": "1",
+              "detail": "Ouvrez Task Bar Cube dans sa fenêtre compacte de barre des tâches ou passez en plein écran pour une session concentrée."
+            },
+            {
+              "label": "2",
+              "detail": "Laissez vos héros combattre automatiquement pendant que le RPG idle tourne en parallèle de votre travail."
+            },
+            {
+              "label": "3",
+              "detail": "Examinez le nouvel équipement et comparez sa rareté, son palier et ses statistiques avec ce que chaque héros utilise."
+            },
+            {
+              "label": "4",
+              "detail": "Améliorez l’équipement avec la fusion, le sertissage de gemmes, les améliorations de rareté et les améliorations de palier."
+            },
+            {
+              "label": "5",
+              "detail": "Rassemblez des ressources grâce à la chasse, à l’agriculture et à l’exploitation minière, puis consultez le marchand pour les échanges de minerai."
+            },
+            {
+              "label": "6",
+              "detail": "Développez les héros, les familiers, les installations du village, les améliorations du Cube et les bonus de l’ACT League à mesure qu’ils se débloquent."
+            }
+          ]
+        },
+        {
+          "order": 2,
+          "name": "Guide de l’équipement Task Bar Cube",
+          "description": "Détaille les raretés d’équipement, les sept paliers, la fusion, le sertissage de gemmes et les voies d’amélioration qui renforcent l’équipement porté par vos héros.",
+          "href": "/items/task-bar-cube-gear-upgrades",
+          "displayType": "tier-grid",
+          "highlights": [
+            {
+              "label": "S",
+              "detail": "Divine est la rareté nommée la plus élevée dans l’échelle des sept raretés de Task Bar Cube, de Common à Divine."
+            },
+            {
+              "label": "A",
+              "detail": "Les améliorations de rareté améliorent un objet existant et peuvent prolonger la valeur de l’équipement déjà utilisé."
+            },
+            {
+              "label": "B",
+              "detail": "La fusion combine des objets pour produire un nouvel équipement, ouvrant une autre voie dans le système d’équipement."
+            },
+            {
+              "label": "C",
+              "detail": "Common est la rareté nommée de départ ; chaque objet peut progresser à travers sept paliers d’équipement."
+            }
+          ]
+        },
+        {
+          "order": 3,
+          "name": "Héros et classes de Task Bar Cube",
+          "description": "Présente les cinq classes de héros, leurs compétences de combat, les compétences de héros, les arbres de talents et les familiers qui soutiennent le développement de l’équipe.",
+          "href": "/characters/task-bar-cube-heroes-and-pets",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Classes",
+              "detail": "Cinq classes de héros apportent chacune une compétence de combat distincte à l’équipe."
+            },
+            {
+              "label": "Compétences",
+              "detail": "Les compétences de héros et les arbres de talents façonnent le développement de chaque personnage."
+            },
+            {
+              "label": "Équipement",
+              "detail": "Sept raretés et sept paliers donnent à chaque héros une autre voie vers un équipement plus puissant."
+            },
+            {
+              "label": "Familiers",
+              "detail": "Les familiers participent à la création d’équipe et bénéficient du soutien de la Bibliothèque et du Refuge pour animaux."
+            }
+          ]
+        },
+        {
+          "order": 4,
+          "name": "Guide des améliorations Task Bar Cube",
+          "description": "Suivez les améliorations du Cube, la montée de niveau sans fin, les bonus de boss de l’ACT League et le Prestige comme voie de progression à long terme.",
+          "href": "/progression/task-bar-cube-prestige-and-leveling",
+          "displayType": "step-by-step",
+          "highlights": [
+            {
+              "label": "1",
+              "detail": "Continuez à faire combattre les héros pour progresser sur la piste de niveaux sans fin de Task Bar Cube."
+            },
+            {
+              "label": "2",
+              "detail": "Examinez les compétences des héros et les choix de talents à mesure que votre équipe prend forme."
+            },
+            {
+              "label": "3",
+              "detail": "Ouvrez les améliorations du Cube et comparez les centaines d’améliorations disponibles."
+            },
+            {
+              "label": "4",
+              "detail": "Battez les rivaux de l’ACT League pour gagner des bonus qui restent après le Prestige."
+            },
+            {
+              "label": "5",
+              "detail": "Lisez la confirmation de Prestige dans le jeu avant de valider une réinitialisation."
+            },
+            {
+              "label": "6",
+              "detail": "Revenez à la montée de niveau et aux améliorations du Cube avec les bonus que votre équipe a gagnés."
+            }
+          ]
+        },
+        {
+          "order": 5,
+          "name": "Guide de farming Task Bar Cube",
+          "description": "Organisez la chasse, l’agriculture et l’exploitation minière des ressources, les échanges de minerai avec le marchand, ainsi que les installations Bibliothèque et Refuge pour animaux qui soutiennent les héros et les familiers.",
+          "href": "/mechanics/task-bar-cube-village-resources-and-facilities",
+          "displayType": "code-cards",
+          "highlights": [
+            {
+              "label": "Chasse",
+              "detail": "Une activité du village qui rassemble des ressources pour la progression de Task Bar Cube."
+            },
+            {
+              "label": "Agriculture",
+              "detail": "Une activité de collecte qui fournit des ressources pendant que vos héros continuent de combattre."
+            },
+            {
+              "label": "Exploitation minière",
+              "detail": "L’activité liée aux minerais, qui peuvent être échangés avec le marchand du village."
+            },
+            {
+              "label": "Marchand",
+              "detail": "Échangez des minerais contre des récompenses ; les offres et les taux d’échange sont indiqués dans le jeu."
+            },
+            {
+              "label": "Bibliothèque",
+              "detail": "Une installation du village qui fournit des bonus aux héros et aux familiers."
+            },
+            {
+              "label": "Refuge",
+              "detail": "Le Refuge pour animaux soutient le développement des héros et des familiers dans Task Bar Cube."
+            }
+          ]
+        },
+        {
+          "order": 6,
+          "name": "Familiers et améliorations du village Task Bar Cube",
+          "description": "Couvre le développement des familiers, la Bibliothèque et le Refuge pour animaux, avec une vue pratique des améliorations du village qui soutiennent votre équipe.",
+          "href": "/characters/task-bar-cube-heroes-and-pets",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Familiers",
+              "detail": "Les familiers font partie de la création d’équipe et se développent aux côtés de vos héros."
+            },
+            {
+              "label": "Bibliothèque",
+              "detail": "Une installation du village qui renforce les héros et les familiers."
+            },
+            {
+              "label": "Refuge",
+              "detail": "Le Refuge pour animaux soutient le développement des héros et des familiers."
+            },
+            {
+              "label": "Village",
+              "detail": "La chasse, l’agriculture, l’exploitation minière et les installations élargissent la base de ressources de votre équipe."
+            }
+          ]
+        },
+        {
+          "order": 7,
+          "name": "Guide ACT League et boss de Task Bar Cube",
+          "description": "Présente l’ACT League, les rencontres avec les boss rivaux et les bonus qui restent après le Prestige.",
+          "href": "/progression/task-bar-cube-prestige-and-leveling",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Ligue",
+              "detail": "Une voie de progression axée sur les boss dans Task Bar Cube."
+            },
+            {
+              "label": "Rivaux",
+              "detail": "Les combats de boss de l’ACT League mettent votre équipe à l’épreuve face à des adversaires rivaux."
+            },
+            {
+              "label": "Bonus",
+              "detail": "Les victoires rapportent des bonus d’ACT League qui restent après le Prestige."
+            },
+            {
+              "label": "Prestige",
+              "detail": "Utilisez ces bonus permanents lorsque vous planifiez les réinitialisations de Task Bar Cube."
+            }
+          ]
+        },
+        {
+          "order": 8,
+          "name": "Objets Steam et butins de coffres Task Bar Cube",
+          "description": "Explique le cycle de coffres Steam de cinq minutes, les taux de butin publiés par niveau de coffre et les objets commercialisables de Task Bar Cube.",
+          "href": "/items/task-bar-cube-steam-chest-drops",
+          "displayType": "code-cards",
+          "highlights": [
+            {
+              "label": "5 min",
+              "detail": "Jouer à Task Bar Cube pendant cinq minutes offre un coffre Steam."
+            },
+            {
+              "label": "Niv. 1",
+              "detail": "Taux de butin indiqué de 85 % pour un coffre Steam de niveau 1."
+            },
+            {
+              "label": "Niv. 2",
+              "detail": "Taux de butin indiqué de 10 % pour un coffre Steam de niveau 2."
+            },
+            {
+              "label": "Niv. 3",
+              "detail": "Taux de butin indiqué de 3 % pour un coffre Steam de niveau 3."
+            },
+            {
+              "label": "Niv. 4",
+              "detail": "Taux de butin indiqué de 1,5 % pour un coffre Steam de niveau 4."
+            },
+            {
+              "label": "Niv. 5",
+              "detail": "Taux de butin indiqué de 0,5 % pour un coffre Steam de niveau 5."
+            }
+          ]
+        }
+      ]
+    },
+    "faq": {
+      "title": "FAQ Task Bar Cube",
+      "description": "Réponses rapides sur Task Bar Cube, du combat idle et de l’équipement aux coffres Steam, aux bonus de l’ACT League et au Prestige.",
+      "items": [
+        {
+          "question": "Qu’est-ce que Task Bar Cube ?",
+          "answer": "Task Bar Cube est un RPG idle de bureau de DarkRook Interactive pour Windows. Il s’exécute depuis votre barre des tâches ou en plein écran pendant que les héros combattent automatiquement et progressent grâce à l’équipement, aux familiers, aux installations du village et aux améliorations du Cube."
+        },
+        {
+          "question": "Comment fonctionnent les héros et les familiers dans Task Bar Cube ?",
+          "answer": "Task Bar Cube propose cinq classes de héros, chacune avec sa propre compétence de combat. Les compétences de héros et les arbres de talents façonnent le développement, tandis que les familiers rejoignent la création d’équipe et reçoivent le soutien de la Bibliothèque et du Refuge pour animaux."
+        },
+        {
+          "question": "Comment fonctionnent les améliorations d’équipement dans Task Bar Cube ?",
+          "answer": "L’équipement de Task Bar Cube s’étend sur sept raretés, de Common à Divine, et sur sept paliers par objet. La fusion, le sertissage de gemmes, les améliorations de rareté et les améliorations de palier améliorent tous l’équipement."
+        },
+        {
+          "question": "À quelle fréquence les coffres Steam tombent-ils dans Task Bar Cube ?",
+          "answer": "Task Bar Cube accorde un coffre Steam toutes les cinq minutes de jeu. Les taux indiqués par niveau de coffre sont de 85 % pour le niveau 1, 10 % pour le niveau 2, 3 % pour le niveau 3, 1,5 % pour le niveau 4 et 0,5 % pour le niveau 5."
+        },
+        {
+          "question": "Qu’est-ce qui survit au Prestige dans Task Bar Cube ?",
+          "answer": "Les bonus de l’ACT League restent après le Prestige dans Task Bar Cube. Ils sont gagnés en battant des boss rivaux et restent avec votre équipe après la réinitialisation."
+        },
+        {
+          "question": "Y a-t-il un niveau maximum dans Task Bar Cube ?",
+          "answer": "Aucun niveau maximum n’est indiqué pour Task Bar Cube. Le jeu décrit des niveaux sans fin aux côtés de centaines d’améliorations du Cube."
+        }
+      ]
+    },
+    "finalCta": {
+      "title": "Prêt à maîtriser Task Bar Cube ?",
+      "description": "Explorez la progression des héros et des familiers, les raretés d’équipement, la fusion d’équipement, le sertissage de gemmes et les stratégies de prestige avec nos guides gratuits du RPG idle de bureau.",
+      "primary": "Lire le Guide du débutant",
+      "secondary": "Jouer sur Steam"
+    }
+  },
+  "guide": {
+    "overviewTitle": "Guides du débutant Task Bar Cube",
+    "overviewDescription": "Commencez Task Bar Cube avec des conseils vérifiés sur le jeu en barre des tâches, le combat automatique des héros, l’équipement de début, la collecte de ressources et la boucle du village."
+  },
+  "items": {
+    "overviewTitle": "Guides des objets et de l’équipement Task Bar Cube",
+    "overviewDescription": "Comprenez les raretés d’équipement, les paliers, la fusion, le sertissage de gemmes, les améliorations et les butins de coffres Steam de Task Bar Cube."
+  },
+  "characters": {
+    "overviewTitle": "Guides des héros et familiers Task Bar Cube",
+    "overviewDescription": "Explorez les classes de héros, les compétences de combat, les arbres de talents, la création d’équipe, les familiers et les bonus du village de Task Bar Cube."
+  },
+  "progression": {
+    "overviewTitle": "Guides de progression Task Bar Cube",
+    "overviewDescription": "Suivez les niveaux sans fin, les améliorations du Cube, les bonus de l’ACT League, la progression des boss et le Prestige de Task Bar Cube."
+  },
+  "mechanics": {
+    "overviewTitle": "Guides des mécaniques Task Bar Cube",
+    "overviewDescription": "Apprenez comment fonctionnent les activités du village, la collecte de ressources, le marchand, la Bibliothèque et le Refuge pour animaux de Task Bar Cube."
+  },
+  "shared": {
+    "wikiNavigation": "Navigation du wiki",
+    "updated": "Mis à jour",
+    "inThisSection": "Dans cette section",
+    "tableOfContents": "Table des matières",
+    "nextSteps": "Étapes suivantes",
+    "needHelp": "Besoin d’aide ?",
+    "relatedReading": "Lecture associée",
+    "relatedGuides": "Guides associés",
+    "readMore": "Lire la suite",
+    "officialMedia": "Médias officiels",
+    "home": "Accueil",
+    "noGuidesAvailable": "Aucun guide disponible pour le moment. Revenez bientôt !"
+  },
+  "footer": {
+    "aboutTitle": "Wiki Task Bar Cube",
+    "about": "Le Wiki Task Bar Cube est un hub de guides indépendant créé par des fans, couvrant la progression des héros et des familiers, les raretés d’équipement, la fusion d’équipement, le sertissage de gemmes, le farming et les systèmes de prestige.",
+    "quickLinks": "Liens rapides",
+    "guides": "Guides",
+    "legal": "Mentions légales",
+    "copyright": "2026 Wiki Task Bar Cube. Non affilié à DarkRook Interactive ni à Valve.",
+    "description": "RPG idle de bureau sur Windows. Créez des héros et des familiers, collectionnez de l’équipement rare, fusionnez de l’équipement, sertissez des gemmes et utilisez le Prestige.",
+    "playGame": "Jouer sur Steam",
+    "officialDiscord": "Discord officiel",
+    "officialYoutube": "YouTube officiel",
+    "vvBuilder": "Hub communautaire Steam",
+    "beginnerGuide": "Guide du débutant",
+    "raceGuides": "Classes de héros",
+    "bossGuides": "Équipement et matériel",
+    "buildGuide": "Guides de progression",
+    "privacyPolicy": "Politique de confidentialité",
+    "termsOfService": "Conditions d’utilisation"
+  }
+}

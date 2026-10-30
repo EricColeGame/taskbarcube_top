@@ -1,1 +1,479 @@
-{}
+{
+  "site": {
+    "name": "Task Bar Cube Wiki",
+    "shortName": "Task Bar Cube",
+    "tagline": "Builds, Ausrüstung, Haustiere & Fortschrittsleitfäden",
+    "description": "Task Bar Cube-Leitfäden zu Helden, Haustieren, Ausrüstung, Ausrüstungsfusion, Edelstein-Sockeln, Farming, Prestige und Fortschritt im Desktop-Idle-RPG.",
+    "legalNotice": "Inoffizielles Fan-Wiki. Task Bar Cube und zugehörige Assets gehören DarkRook Interactive."
+  },
+  "nav": {
+    "menu": "Menü",
+    "toggleTheme": "Design umschalten",
+    "guide": "Leitfaden",
+    "items": "Gegenstände",
+    "characters": "Charaktere",
+    "progression": "Fortschritt",
+    "mechanics": "Mechaniken"
+  },
+  "home": {
+    "meta": {
+      "title": "Task Bar Cube Wiki – Einsteigerleitfaden, Ausrüstung, Helden & Fortschritt",
+      "description": "Task Bar Cube-Leitfäden zu Idle-Kampf, fünf Heldenklassen, Ausrüstungs-Upgrades, Haustieren, Dorfressourcen, ACT League-Bossen, Steam-Truhen und Prestige."
+    },
+    "hero": {
+      "eyebrow": "Von Fans erstelltes Community-Wiki",
+      "title": "Task Bar Cube Wiki",
+      "description": "Meistere Task Bar Cube mit Einsteigerleitfäden, Helden- und Haustierfortschritt, Ausrüstungsseltenheiten, Ausrüstungsfusion, Edelstein-Sockeln, Farming-Strategien und Prestige-Tipps für dieses Desktop-Idle-RPG.",
+      "stats": [
+        "Veröffentlichung: 25. Okt. 2026",
+        "5 Heldenklassen",
+        "4,970 Höchststand CCU",
+        "188 Steam-Bewertungen"
+      ],
+      "primaryCta": "Einsteigerleitfaden",
+      "secondaryCta": "Ausrüstung & Fortschritt",
+      "tertiaryCta": "Auf Steam spielen",
+      "videoLabel": "Gameplay-Vorschau"
+    },
+    "updates": {
+      "title": "Neueste Updates",
+      "browse": "Alle Leitfäden durchsuchen",
+      "viewAll": "Alle anzeigen"
+    },
+    "start": {
+      "eyebrow": "Hier starten",
+      "title": "Deine Task Bar Cube-Reise",
+      "cards": [
+        {
+          "number": "1",
+          "title": "Einsteigerleitfaden",
+          "description": "Lerne die Grundlagen der Taskleiste und des Vollbildmodus, den automatischen Heldenkampf, frühe Ausrüstung und den Ressourcenkreislauf kennen, der dein Team voranbringt."
+        },
+        {
+          "number": "2",
+          "title": "Schnellstes Leveln",
+          "description": "Nutze endlose Level, Heldenfähigkeiten, Talente und Cube-Upgrades, um dein Team voranzubringen, während Task Bar Cube im Hintergrund läuft."
+        },
+        {
+          "number": "3",
+          "title": "Ausrüstungs-Upgrades",
+          "description": "Entdecke sieben Seltenheitsstufen, sieben Stufen, Fusion, Edelstein-Sockeln sowie Seltenheits- oder Stufen-Upgrades für stärkere Ausrüstung."
+        },
+        {
+          "number": "4",
+          "title": "Helden & Haustiere",
+          "description": "Vergleiche fünf Heldenklassen, gestalte Builds mit Fähigkeiten und Talenten und entwickle Haustiere über Dorfeinrichtungen, die dein Team stärken."
+        }
+      ]
+    },
+    "popular": {
+      "eyebrow": "Beliebte Seiten",
+      "title": "Jetzt im Trend",
+      "quickLinks": [
+        "Einsteigerleitfaden",
+        "Ausrüstungs-Upgrades",
+        "Helden & Haustiere",
+        "Prestige"
+      ],
+      "cards": [
+        {
+          "badge": "Anfänger",
+          "title": "Einsteigerleitfaden",
+          "description": "Beginne mit Taskleisten-Spiel, Idle-Kampf, früher Ausrüstung, Ressourcen, Helden und Dorffortschritt.",
+          "href": "/guide/task-bar-cube-beginner-guide"
+        },
+        {
+          "badge": "Ausrüstung",
+          "title": "Ausrüstungs-Upgrades",
+          "description": "Überblicke sieben Seltenheitsstufen, sieben Stufen, Fusion, Edelstein-Sockeln und Ausrüstungs-Upgrades.",
+          "href": "/items/task-bar-cube-gear-upgrades"
+        },
+        {
+          "badge": "Team",
+          "title": "Helden & Haustiere",
+          "description": "Verstehe fünf Heldenklassen, Kampffähigkeiten, Talentbäume, Haustiere und Dorf-Boosts.",
+          "href": "/characters/task-bar-cube-heroes-and-pets"
+        },
+        {
+          "badge": "Fortschritt",
+          "title": "Prestige & Leveln",
+          "description": "Folge endlosen Leveln, Cube-Upgrades, ACT League-Boni und dem Prestige-Fortschritt.",
+          "href": "/progression/task-bar-cube-prestige-and-leveling"
+        },
+        {
+          "badge": "Dorf",
+          "title": "Dorfressourcen",
+          "description": "Behandle Jagd, Farming, Bergbau, Händlerhandel, die Bibliothek und das Tierheim.",
+          "href": "/mechanics/task-bar-cube-village-resources-and-facilities"
+        },
+        {
+          "badge": "Steam",
+          "title": "Steam-Truhen-Drops",
+          "description": "Prüfe den Fünf-Minuten-Truhenzyklus und die angegebenen Drop-Raten für Stufen 1 bis 5.",
+          "href": "/items/task-bar-cube-steam-chest-drops"
+        }
+      ]
+    },
+    "aboutGame": {
+      "title": "Was ist Task Bar Cube?",
+      "paragraphs": [
+        "Task Bar Cube ist ein Desktop-Idle-RPG von DarkRook Interactive. Es läuft in einem kompakten Taskleistenfenster oder im Vollbildmodus unter Windows und lässt deine Helden automatisch kämpfen, während du arbeitest oder dich auf andere Aufgaben konzentrierst.",
+        "Stelle ein Team aus fünf Heldenklassen zusammen, sammle Ausrüstung über sieben Seltenheitsstufen und sieben Stufen hinweg, setze Edelsteine ein, fusioniere Ausrüstung und entwickle Haustiere und Dorfeinrichtungen. Cube-Upgrades, endlose Level, Boni von ACT League-Bossen und Prestige tragen den langfristigen Fortschritt."
+      ],
+      "stats": [
+        {
+          "label": "Entwickler",
+          "value": "DarkRook Interactive"
+        },
+        {
+          "label": "Plattform",
+          "value": "Windows"
+        },
+        {
+          "label": "Veröffentlichung",
+          "value": "25. Okt. 2026"
+        },
+        {
+          "label": "Genre",
+          "value": "Desktop-Idle-RPG"
+        },
+        {
+          "label": "Heldenklassen",
+          "value": "5"
+        },
+        {
+          "label": "Level-Obergrenze",
+          "value": "Endlos"
+        }
+      ],
+      "cta": "Beginne mit dem Einsteigerleitfaden"
+    },
+    "explore": {
+      "title": "Task Bar Cube entdecken",
+      "description": "Acht gezielte Leitfäden behandeln die zentralen Systeme von Task Bar Cube – von deiner ersten Idle-Schlacht bis zu Ausrüstung, Haustieren, Dorfressourcen, ACT League-Bossen und Steam-Truhen-Drops.",
+      "modules": [
+        {
+          "order": 1,
+          "name": "Task Bar Cube Einsteigerleitfaden",
+          "description": "Einführung in den zentralen Gameplay-Kreislauf, Taskleisten- und Vollbildmodus, automatischen Kampf und die ersten Schritte zu Ausrüstung, Ressourcen, Helden und Dorf-Upgrades.",
+          "href": "/guide/task-bar-cube-beginner-guide",
+          "displayType": "step-by-step",
+          "highlights": [
+            {
+              "label": "1",
+              "detail": "Öffne Task Bar Cube im kompakten Taskleistenfenster oder wechsle in den Vollbildmodus für eine fokussierte Sitzung."
+            },
+            {
+              "label": "2",
+              "detail": "Lass deine Helden automatisch kämpfen, während das Idle-RPG neben deiner Arbeit läuft."
+            },
+            {
+              "label": "3",
+              "detail": "Prüfe neue Ausrüstung und vergleiche ihre Seltenheit, Stufe und Werte mit dem, was jeder Held verwendet."
+            },
+            {
+              "label": "4",
+              "detail": "Verbessere Ausrüstung mit Fusion, Edelstein-Sockeln, Seltenheits-Upgrades und Stufen-Upgrades."
+            },
+            {
+              "label": "5",
+              "detail": "Sammle Ressourcen durch Jagd, Farming und Bergbau und prüfe dann beim Händler die Erzhandelsangebote."
+            },
+            {
+              "label": "6",
+              "detail": "Entwickle Helden, Haustiere, Dorfeinrichtungen, Cube-Upgrades und ACT League-Boni, sobald sie freigeschaltet werden."
+            }
+          ]
+        },
+        {
+          "order": 2,
+          "name": "Task Bar Cube Ausrüstungsleitfaden",
+          "description": "Erläutert Ausrüstungsseltenheiten, sieben Stufen, Fusion, Edelstein-Sockeln und die Upgrade-Pfade, die die Ausrüstung deiner Helden verbessern.",
+          "href": "/items/task-bar-cube-gear-upgrades",
+          "displayType": "tier-grid",
+          "highlights": [
+            {
+              "label": "S",
+              "detail": "Divine ist die höchste benannte Seltenheit in der Seltenheitsskala von Task Bar Cube mit sieben Stufen von Common bis Divine."
+            },
+            {
+              "label": "A",
+              "detail": "Seltenheits-Upgrades verbessern einen vorhandenen Gegenstand und können den Wert bereits verwendeter Ausrüstung erhöhen."
+            },
+            {
+              "label": "B",
+              "detail": "Fusion kombiniert Gegenstände zu neuer Ausrüstung und eröffnet einen weiteren Weg durch das Ausrüstungssystem."
+            },
+            {
+              "label": "C",
+              "detail": "Common ist die benannte Startseltenheit; jeder Gegenstand kann sieben Ausrüstungsstufen durchlaufen."
+            }
+          ]
+        },
+        {
+          "order": 3,
+          "name": "Task Bar Cube Helden und Klassen",
+          "description": "Einführung in die fünf Heldenklassen, ihre Kampffähigkeiten, Heldenfähigkeiten, Talentbäume und die Haustiere, die die Teamentwicklung unterstützen.",
+          "href": "/characters/task-bar-cube-heroes-and-pets",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Klassen",
+              "detail": "Fünf Heldenklassen bringen jeweils eine eigene Kampffähigkeit ins Team."
+            },
+            {
+              "label": "Fähigkeiten",
+              "detail": "Heldenfähigkeiten und Talentbäume bestimmen, wie sich jeder Charakter entwickelt."
+            },
+            {
+              "label": "Ausrüstung",
+              "detail": "Sieben Seltenheitsstufen und sieben Stufen geben jedem Helden einen weiteren Weg zu stärkerer Ausrüstung."
+            },
+            {
+              "label": "Haustiere",
+              "detail": "Haustiere sind Teil des Teambaus und erhalten Unterstützung von der Bibliothek und dem Tierheim."
+            }
+          ]
+        },
+        {
+          "order": 4,
+          "name": "Task Bar Cube Upgrade-Leitfaden",
+          "description": "Folge Cube-Upgrades, endlosem Leveln, Boni von ACT League-Bossen und Prestige als langfristigem Fortschrittspfad.",
+          "href": "/progression/task-bar-cube-prestige-and-leveling",
+          "displayType": "step-by-step",
+          "highlights": [
+            {
+              "label": "1",
+              "detail": "Lass deine Helden weiterkämpfen, um die endlose Levelstrecke von Task Bar Cube voranzutreiben."
+            },
+            {
+              "label": "2",
+              "detail": "Überprüfe Heldenfähigkeiten und Talententscheidungen, während dein Team Form annimmt."
+            },
+            {
+              "label": "3",
+              "detail": "Öffne Cube-Upgrades und vergleiche die Hunderte verfügbaren Verbesserungen."
+            },
+            {
+              "label": "4",
+              "detail": "Besiege Rivalen der ACT League, um Boni zu erhalten, die nach Prestige bestehen bleiben."
+            },
+            {
+              "label": "5",
+              "detail": "Lies die Prestige-Bestätigung im Spiel, bevor du dich für einen Reset entscheidest."
+            },
+            {
+              "label": "6",
+              "detail": "Kehre mit den Boni, die dein Team verdient hat, zum Leveln und zu Cube-Upgrades zurück."
+            }
+          ]
+        },
+        {
+          "order": 5,
+          "name": "Task Bar Cube Farming-Leitfaden",
+          "description": "Organisiere Jagd, Farming und Bergbauressourcen, Erzhandel beim Händler sowie die Einrichtungen Bibliothek und Tierheim, die Helden und Haustiere unterstützen.",
+          "href": "/mechanics/task-bar-cube-village-resources-and-facilities",
+          "displayType": "code-cards",
+          "highlights": [
+            {
+              "label": "Jagd",
+              "detail": "Eine Dorfaktivität, die Ressourcen für den Fortschritt in Task Bar Cube sammelt."
+            },
+            {
+              "label": "Farming",
+              "detail": "Eine Sammelaktivität, die Ressourcen liefert, während deine Helden weiterkämpfen."
+            },
+            {
+              "label": "Bergbau",
+              "detail": "Die Aktivität rund um Erze, die beim Dorfhändler gehandelt werden können."
+            },
+            {
+              "label": "Händler",
+              "detail": "Tausche Erze gegen Belohnungen; Angebote und Wechselkurse werden im Spiel angezeigt."
+            },
+            {
+              "label": "Bibliothek",
+              "detail": "Eine Dorfeinrichtung, die Boosts für Helden und Haustiere bietet."
+            },
+            {
+              "label": "Tierheim",
+              "detail": "Das Tierheim unterstützt die Entwicklung von Helden und Haustieren in Task Bar Cube."
+            }
+          ]
+        },
+        {
+          "order": 6,
+          "name": "Task Bar Cube Haustiere und Dorf-Upgrades",
+          "description": "Behandle die Entwicklung von Haustieren, die Bibliothek und das Tierheim mit einem praktischen Blick auf die Dorfverbesserungen, die dein Team unterstützen.",
+          "href": "/characters/task-bar-cube-heroes-and-pets",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Haustiere",
+              "detail": "Haustiere sind Teil des Teambaus und entwickeln sich zusammen mit deinen Helden."
+            },
+            {
+              "label": "Bibliothek",
+              "detail": "Eine Dorfeinrichtung, die Helden und Haustiere stärkt."
+            },
+            {
+              "label": "Tierheim",
+              "detail": "Das Tierheim unterstützt die Entwicklung von Helden und Haustieren."
+            },
+            {
+              "label": "Dorf",
+              "detail": "Jagd, Farming, Bergbau und Einrichtungen erweitern die Ressourcenbasis deines Teams."
+            }
+          ]
+        },
+        {
+          "order": 7,
+          "name": "Task Bar Cube Leitfaden zu ACT League und Bossen",
+          "description": "Einführung in die ACT League, Begegnungen mit Rivalenbossen und die Boni, die nach Prestige bestehen bleiben.",
+          "href": "/progression/task-bar-cube-prestige-and-leveling",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Liga",
+              "detail": "Ein auf Bosse ausgerichteter Fortschrittspfad in Task Bar Cube."
+            },
+            {
+              "label": "Rivalen",
+              "detail": "Bosskämpfe der ACT League stellen dein Team gegen rivalisierende Gegner auf die Probe."
+            },
+            {
+              "label": "Boni",
+              "detail": "Siege bringen ACT League-Boni, die nach Prestige bestehen bleiben."
+            },
+            {
+              "label": "Prestige",
+              "detail": "Nutze diese permanenten Boni bei der Planung von Task Bar Cube-Resets."
+            }
+          ]
+        },
+        {
+          "order": 8,
+          "name": "Task Bar Cube Steam-Gegenstände und Truhen-Drops",
+          "description": "Erklärt den Fünf-Minuten-Steam-Truhenzyklus, veröffentlichte Drop-Raten für Truhenstufen und marktfähige Gegenstände aus Task Bar Cube.",
+          "href": "/items/task-bar-cube-steam-chest-drops",
+          "displayType": "code-cards",
+          "highlights": [
+            {
+              "label": "5 Min.",
+              "detail": "Fünf Minuten Task Bar Cube spielen bringt eine Steam-Truhe ein."
+            },
+            {
+              "label": "Stufe 1",
+              "detail": "85% angegebene Drop-Rate für eine Steam-Truhe der Stufe 1."
+            },
+            {
+              "label": "Stufe 2",
+              "detail": "10% angegebene Drop-Rate für eine Steam-Truhe der Stufe 2."
+            },
+            {
+              "label": "Stufe 3",
+              "detail": "3% angegebene Drop-Rate für eine Steam-Truhe der Stufe 3."
+            },
+            {
+              "label": "Stufe 4",
+              "detail": "1.5% angegebene Drop-Rate für eine Steam-Truhe der Stufe 4."
+            },
+            {
+              "label": "Stufe 5",
+              "detail": "0.5% angegebene Drop-Rate für eine Steam-Truhe der Stufe 5."
+            }
+          ]
+        }
+      ]
+    },
+    "faq": {
+      "title": "Task Bar Cube FAQ",
+      "description": "Schnelle Antworten zu Task Bar Cube – von Idle-Kampf und Ausrüstung bis zu Steam-Truhen, ACT League-Boni und Prestige.",
+      "items": [
+        {
+          "question": "Was ist Task Bar Cube?",
+          "answer": "Task Bar Cube ist ein Desktop-Idle-RPG von DarkRook Interactive für Windows. Es läuft über deine Taskleiste oder im Vollbildmodus, während Helden automatisch kämpfen und durch Ausrüstung, Haustiere, Dorfeinrichtungen und Cube-Upgrades vorankommen."
+        },
+        {
+          "question": "Wie funktionieren Helden und Haustiere in Task Bar Cube?",
+          "answer": "Task Bar Cube hat fünf Heldenklassen, jede mit einer eigenen Kampffähigkeit. Heldenfähigkeiten und Talentbäume prägen die Entwicklung, während Haustiere am Teambau teilnehmen und Unterstützung von der Bibliothek und dem Tierheim erhalten."
+        },
+        {
+          "question": "Wie funktionieren Ausrüstungs-Upgrades in Task Bar Cube?",
+          "answer": "Die Ausrüstung in Task Bar Cube umfasst sieben Seltenheitsstufen von Common bis Divine und sieben Stufen pro Gegenstand. Fusion, Edelstein-Sockeln, Seltenheits-Upgrades und Stufen-Upgrades verbessern allesamt die Ausrüstung."
+        },
+        {
+          "question": "Wie oft fallen Steam-Truhen in Task Bar Cube?",
+          "answer": "Task Bar Cube vergibt alle fünf Minuten Spielzeit eine Steam-Truhe. Die angegebenen Raten für Truhenstufen sind 85% für Stufe 1, 10% für Stufe 2, 3% für Stufe 3, 1.5% für Stufe 4 und 0.5% für Stufe 5."
+        },
+        {
+          "question": "Was bleibt in Task Bar Cube nach Prestige erhalten?",
+          "answer": "ACT League-Boni bleiben nach Prestige in Task Bar Cube erhalten. Sie werden durch das Besiegen von Rivalenbossen verdient und bleiben deinem Team über den Reset hinweg erhalten."
+        },
+        {
+          "question": "Gibt es in Task Bar Cube eine Level-Obergrenze?",
+          "answer": "Für Task Bar Cube wird keine Level-Obergrenze angegeben. Das Spiel beschreibt endlose Level zusammen mit Hunderten von Cube-Upgrades."
+        }
+      ]
+    },
+    "finalCta": {
+      "title": "Bereit, Task Bar Cube zu meistern?",
+      "description": "Entdecke Helden- und Haustierfortschritt, Ausrüstungsseltenheiten, Ausrüstungsfusion, Edelstein-Sockeln und Prestige-Strategien mit unseren kostenlosen Desktop-Idle-RPG-Leitfäden.",
+      "primary": "Lies den Einsteigerleitfaden",
+      "secondary": "Auf Steam spielen"
+    }
+  },
+  "guide": {
+    "overviewTitle": "Task Bar Cube Einsteigerleitfäden",
+    "overviewDescription": "Starte Task Bar Cube mit geprüften Hinweisen zu Taskleisten-Spiel, automatischem Heldenkampf, früher Ausrüstung, Ressourcensammlung und dem Dorfkreislauf."
+  },
+  "items": {
+    "overviewTitle": "Task Bar Cube Gegenstände & Ausrüstungsleitfäden",
+    "overviewDescription": "Verstehe Ausrüstungsseltenheiten, Stufen, Fusion, Edelstein-Sockeln, Upgrades und Steam-Truhen-Drops in Task Bar Cube."
+  },
+  "characters": {
+    "overviewTitle": "Task Bar Cube Helden- & Haustierleitfäden",
+    "overviewDescription": "Entdecke Heldenklassen, Kampffähigkeiten, Talentbäume, Teambau, Haustiere und Dorf-Boosts in Task Bar Cube."
+  },
+  "progression": {
+    "overviewTitle": "Task Bar Cube Fortschrittsleitfäden",
+    "overviewDescription": "Verfolge endlose Level, Cube-Upgrades, ACT League-Boni, Boss-Fortschritt und Prestige in Task Bar Cube."
+  },
+  "mechanics": {
+    "overviewTitle": "Task Bar Cube Mechanik-Leitfäden",
+    "overviewDescription": "Erfahre, wie Dorfaktivitäten, Ressourcensammlung, der Händler, die Bibliothek und das Tierheim in Task Bar Cube funktionieren."
+  },
+  "shared": {
+    "wikiNavigation": "Wiki-Navigation",
+    "updated": "Aktualisiert",
+    "inThisSection": "In diesem Abschnitt",
+    "tableOfContents": "Inhaltsverzeichnis",
+    "nextSteps": "Nächste Schritte",
+    "needHelp": "Brauchst du Hilfe?",
+    "relatedReading": "Verwandte Lektüre",
+    "relatedGuides": "Verwandte Leitfäden",
+    "readMore": "Mehr lesen",
+    "officialMedia": "Offizielle Medien",
+    "home": "Startseite",
+    "noGuidesAvailable": "Noch keine Leitfäden verfügbar. Schau bald wieder vorbei!"
+  },
+  "footer": {
+    "aboutTitle": "Task Bar Cube Wiki",
+    "about": "Task Bar Cube Wiki ist ein unabhängiger, von Fans erstellter Leitfaden-Hub zu Helden- und Haustierfortschritt, Ausrüstungsseltenheiten, Ausrüstungsfusion, Edelstein-Sockeln, Farming und Prestige-Systemen.",
+    "quickLinks": "Schnelllinks",
+    "guides": "Leitfäden",
+    "legal": "Rechtliches",
+    "copyright": "2026 Task Bar Cube Wiki. Nicht mit DarkRook Interactive oder Valve verbunden.",
+    "description": "Desktop-Idle-RPG unter Windows. Baue Helden und Haustiere auf, sammle seltene Ausrüstung, fusioniere Ausrüstung, setze Edelsteine ein und nutze Prestige.",
+    "playGame": "Auf Steam spielen",
+    "officialDiscord": "Offizieller Discord",
+    "officialYoutube": "Offizielles YouTube",
+    "vvBuilder": "Steam Community Hub",
+    "beginnerGuide": "Einsteigerleitfaden",
+    "raceGuides": "Heldenklassen",
+    "bossGuides": "Ausrüstung & Ausrüstungsgegenstände",
+    "buildGuide": "Fortschrittsleitfäden",
+    "privacyPolicy": "Datenschutzerklärung",
+    "termsOfService": "Nutzungsbedingungen"
+  }
+}
